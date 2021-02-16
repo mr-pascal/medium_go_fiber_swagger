@@ -1,0 +1,11 @@
+basePath: /
+host: localhost:3000
+info:
+  contact:
+    email: pascalrene.zwikirsch@gmail.com
+    name: API Support
+  description: This is a sample swagger for Fiber
+  title: Fiber Example API
+  version: "1.0"
+paths: {}
+swagger: "2.0"
